@@ -1,6 +1,6 @@
 {
   "name": "seconds-to-show",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "It will show mm:ss by given seconds.",
   "keywords": [
     "seconds",
@@ -14,8 +14,5 @@
   "author": "Berkay Gebes",
   "type": "module",
   "license": "MIT",
-  "private": false,
-  "dependencies": {
-    "seconds-to-show": "^1.0.2"
-  }
+  "private": false
 }

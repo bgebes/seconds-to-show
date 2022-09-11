@@ -1,3 +1,7 @@
+# Description
+
+📚 A library that will show mm:ss by given seconds.
+
 # Usage
 
 ```js

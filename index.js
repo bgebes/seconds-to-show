@@ -8,5 +8,5 @@ export default function SecondsToShow(seconds) {
   const minute = parseInt(seconds / 60);
   const remainedSeconds = seconds - minute * 60;
 
-  return `${minute}:${remainedSeconds}`;
+  return `${minute}:${remainedSeconds < 10 ? '0' : ''}${remainedSeconds}`;
 }
